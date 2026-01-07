@@ -5,7 +5,7 @@ title: GitHub tools
 
 | Tool | What it is | Best for |
 |---|---|---|
-| GitHub Proper (Repos) | The "core" cloud storage for  Git projects. | Version control, collaboration, and code backup. |
+| GitHub Proper (Repos) | The "Core" cloud storage for  Git projects. | Version control, collaboration, and code backup. |
 | GitHub Gists | Single-file or small snippet hosting. | Sharing one-off scripts, notes, or code blocks without a full repo. |
 | GitHub Pages | Free static web hosting. | Personal portfolios, project documentation, or simple static sites. |
 | GitHub Codespaces | Full cloud-based dev environment (VM). | Coding from anywhere with a terminal; no local setup needed. |
